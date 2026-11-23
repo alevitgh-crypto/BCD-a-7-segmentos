@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+BCD a 7 segmantos
 
 ## How to test
 
-Explain how to use your project
+display 7 segmentos
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+ociloscopio
